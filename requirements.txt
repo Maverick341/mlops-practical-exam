@@ -1,0 +1,12 @@
+pandas
+matplotlib
+seaborn
+numpy
+scikit-learn
+joblib
+scipy
+jupyterlab
+ipykernel
+jupyter
+notebook
+ydata_profiling
